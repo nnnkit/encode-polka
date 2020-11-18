@@ -10,4 +10,4 @@
 
 ## Screenshot of the UI
 
-![](<https://github.com/nnnkit/encode-polka/blob/master/local-sustrate/localhost_8000_%20(1).png?raw=true)
+![](https://github.com/nnnkit/encode-polka/blob/master/local-sustrate/localhost_8000_%20(1).png?raw=true)
