@@ -55,10 +55,10 @@ function Main(props) {
           <Card fluid>
             <Card.Content textAlign='center'>
               <Card.Header>
-                {'#' + searchedBlockInfo.number.toNumber()}
+                {'Block Number' + searchedBlockInfo.number.toNumber()}
               </Card.Header>
               <Card.Meta>
-                {'Hash ' + searchedBlockInfo.hash.toHuman()}
+                {'Block Hash ' + searchedBlockInfo.hash.toHuman()}
               </Card.Meta>
               <Card.Description>
                 {'Parent Hash ' + searchedBlockInfo.parentHash.toHuman()}
