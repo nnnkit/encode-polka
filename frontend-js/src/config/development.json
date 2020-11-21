@@ -3,5 +3,5 @@
     "Address": "AccountId",
     "LookupSource": "AccountId"
   },
-  "PROVIDER_SOCKET": "wss://rpc.polkadot.io"
+  "PROVIDER_SOCKET": "wss://kusama-rpc.polkadot.io"
 }
